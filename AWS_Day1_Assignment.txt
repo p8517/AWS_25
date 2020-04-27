@@ -1,0 +1,21 @@
+Q1.What is Cloud?
+Cloud is the on_demand availability of compurter system resources,
+especially data storage and computing power.without direct active
+management by the user.The term is generally used to describe data
+centers available to many users over the internet.
+*Types of Cloud:-
+1.Private Cloud
+2.Public Cloud
+3.Hybird Cloud
+
+Q2.What is advantages of AWS cloud?
+AWS(Amazon Web Serivces) is a secure cloud serivces platform,
+offering compute power,database storage,content delivery and
+other functionality to help businesses scale and grow.
+Advangaes:-
+i.Easy to use
+ii.No capacity limits
+iii.Provides Speed and Agility
+iv.Secure and Reliable
+
+
