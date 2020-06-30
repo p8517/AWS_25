@@ -1,0 +1,90 @@
+# To become familiar with how files are added to and removed from HDFS and how to view files in HDFS
+
+**The hdfs dfs command to view the usage of hdfs**
+
+  ![dfs](images/Screenshot(258).png)
+  
+
+
+**Run the -ls command to view the contents of the user’s root directory in HDFS, which is /user/root**
+
+  ![dfs](images/Screenshot(260).png)
+  ![dfs](images/Screenshot(261).png)
+ 
+
+**Create a directory named test in HDFS:**
+
+  ![dfs](images/Screenshot(266).png)
+  
+c. Verify that the folder was created successfully: 
+  ![dfs](images/Screenshot(267).png)
+
+**Create a couple of subdirectories for test:**
+
+   ![dfs](images/Screenshot(285).png)
+ 
+
+**To recursively view the contents of a folder, use -ls -R:**
+ ![dfs](images/Screenshot(268).png)
+ 
+
+**Delete a Directory means delete the test2 folder (and recursively, its subcontents) using the -rm -R
+command:**
+ ![dfs](images/Screenshot(269).png)
+ 
+**Upload a File to HDFS:**
+
+ ![dfs](images/Screenshot(270).png)
+  ![dfs](images/Screenshot(271).png)
+ 
+a.Now let’s put a file into the test folder. Change directories to  /root/devph/labs/Lab2.1: 
+
+ ![dfs](images/Screenshot(280).png)
+ 
+b. Notice this folder contains a file named data.txt: 
+ ![dfs](images/Screenshot(281).png)
+
+ 
+c. Run the following -put command to copy data.txt into the test folder in HDFS:
+ ![dfs](images/Screenshot(282).png)
+ 
+d. Verify that the file is in HDFS by listing the contents of test: 
+ ![dfs](images/Screenshot(283).png)
+ 
+
+**5 ) Copy a File in HDFS :**
+ ![dfs](images/Screenshot(286).png)
+ 
+*Now delete the data2.txt file using the -rm command: *
+ ![dfs](images/Screenshot(287).png)
+ 
+
+**View the Contents of a File in HDFS:**
+ ![dfs](images/Screenshot(288).png)
+ 
+
+**tail command to view the end of a file:**
+  ![dfs](images/Screenshot(289).png)
+
+**Getting a File from HDFS:**
+ ![dfs](images/Screenshot(290).png)
+  ![dfs](images/Screenshot(292).png)
+   ![dfs](images/Screenshot(293).png)
+ 
+** The getmerge Command:**
+ ![dfs](images/Screenshot(298).png)
+
+** Specify the Block Size and Replication Factor :**
+a. Put /root/devph/labs/Lab2.1/data.txt into /user/root in HDFS, giving it a  blocksize of 1,048,576 bytes. 
+ ![dfs](images/Screenshot(300).png)
+ 
+
+b. Run the following fsck command on data.txt:
+ 
+ ![dfs](images/Screenshot(301).png)
+
+
+
+
+
+
