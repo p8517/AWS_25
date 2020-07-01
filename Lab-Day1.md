@@ -35,22 +35,22 @@ command:**
  
 **Upload a File to HDFS:**
 
- ![Screenshot (258)]
+ ![Screenshot (258)](https://user-images.githubusercontent.com/63599387/86223422-28661c80-bba5-11ea-9594-d767682f704a.png)
  
- ![Screenshot (258)]
+ ![Screenshot (258)](https://user-images.githubusercontent.com/63599387/86223425-28feb300-bba5-11ea-89bd-0d3fe446c8bd.png)
  
 *a.Now let’s put a file into the test folder. Change directories to  /root/devph/labs/Lab2.1:*
 
- ![Screenshot (258)]
+ ![Screenshot (258)](https://user-images.githubusercontent.com/63599387/86223431-2b610d00-bba5-11ea-93a2-2382d36ed4ac.png)
  
 *b. Notice this folder contains a file named data.txt:* 
 
- ![Screenshot (258)]
+ ![Screenshot (258)](https://user-images.githubusercontent.com/63599387/86223433-2bf9a380-bba5-11ea-8df9-2ccd0523e3ba.png)
 
  
 *c. Run the following -put command to copy data.txt into the test folder in HDFS:*
 
- ![Screenshot (258)]
+ ![Screenshot (258)](https://user-images.githubusercontent.com/63599387/86223434-2c923a00-bba5-11ea-96db-1f723408ef56.png)
  
 *d. Verify that the file is in HDFS by listing the contents of test: *
 
