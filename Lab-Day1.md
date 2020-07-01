@@ -20,7 +20,7 @@
 
 **Create a couple of subdirectories for test:**
 
-  ![Screenshot (258)](https://user-images.githubusercontent.com/63599387/86223416-269c5900-bba5-11ea-90f3-85216b934ce6.png)
+  ![Screenshot (258)](https://user-images.githubusercontent.com/63599387/86223438-2e5bfd80-bba5-11ea-9f22-4fa125baa842.png)
  
 
 **To recursively view the contents of a folder, use -ls -R:**
@@ -31,7 +31,7 @@
 **Delete a Directory means delete the test2 folder (and recursively, its subcontents) using the -rm -R
 command:**
 
- ![Screenshot (258)]
+ ![Screenshot (258)](https://user-images.githubusercontent.com/63599387/86223418-27cd8600-bba5-11ea-954f-b8ac945fb18c.png)
  
 **Upload a File to HDFS:**
 
