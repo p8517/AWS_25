@@ -2,7 +2,7 @@
 
 **The hdfs dfs command to view the usage of hdfs**
 
-  ![dfs1](https://github.com/p8517/AWS_25/tree/Big-Data/images/Screenshot(258).png)
+  ![dfs1](https://github.com/p8517/AWS_25/tree/Big-Data/blob/images/Screenshot(258).png)
   
 
 
