@@ -2,7 +2,7 @@
 
 **The hdfs dfs command to view the usage of hdfs**
 
-  ![dfs](https://github.com/p8517/AWS_25/tree/Big-Data/blob/images/Screenshot(258).png)
+  ![Screenshot (258)](https://user-images.githubusercontent.com/63599387/86223824-b17d5380-bba5-11ea-87ca-2e5fcf711b78.png)
   
 **Run the -ls command to view the contents of the user’s root directory in HDFS, which is /user/root**
 
