@@ -6,7 +6,7 @@
   
 **Run the -ls command to view the contents of the user’s root directory in HDFS, which is /user/root**
 
-  ![dfs2](https://github.com/p8517/AWS_25/tree/Big-Data/images/Screenshot(260).png)
+ ![Screenshot (258)](https://user-images.githubusercontent.com/63599387/86223385-1dab8780-bba5-11ea-92c7-f7093a134f59.png)
   ![dfs3](https://github.com/p8517/AWS_25/tree/Big-Data/images/Screenshot(261).png)
  
 **Create a directory named test in HDFS:**
