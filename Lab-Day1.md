@@ -2,16 +2,13 @@
 
 **The hdfs dfs command to view the usage of hdfs**
 
-  ![](https://github.com/p8517/AWS_25/tree/Big-Data/blob/images/Screenshot(258).png)
+  ![dfs](https://github.com/p8517/AWS_25/tree/Big-Data/blob/images/Screenshot(258).png)
   
-
-
 **Run the -ls command to view the contents of the user’s root directory in HDFS, which is /user/root**
 
   ![dfs2](https://github.com/p8517/AWS_25/tree/Big-Data/images/Screenshot(260).png)
   ![dfs3](https://github.com/p8517/AWS_25/tree/Big-Data/images/Screenshot(261).png)
  
-
 **Create a directory named test in HDFS:**
 
   ![dfs4](https://github.com/p8517/AWS_25/tree/Big-Data/images/Screenshot(266).png)
