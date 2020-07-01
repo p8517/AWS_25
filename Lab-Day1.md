@@ -25,7 +25,7 @@
 
 **To recursively view the contents of a folder, use -ls -R:**
 
- ![Screenshot (258)]
+ ![Screenshot (258)](https://user-images.githubusercontent.com/63599387/86223416-269c5900-bba5-11ea-90f3-85216b934ce6.png)
  
 
 **Delete a Directory means delete the test2 folder (and recursively, its subcontents) using the -rm -R
