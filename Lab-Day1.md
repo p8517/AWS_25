@@ -54,50 +54,50 @@ command:**
  
 *d. Verify that the file is in HDFS by listing the contents of test: *
 
- ![Screenshot (258)]
+ ![Screenshot (258)](https://user-images.githubusercontent.com/63599387/86223436-2d2ad080-bba5-11ea-9568-a0ca58aed6a3.png)
  
 
 **5 ) Copy a File in HDFS :**
 
- ![Screenshot (258)]
+ ![Screenshot (258)](https://user-images.githubusercontent.com/63599387/86223439-2ef49400-bba5-11ea-9bfc-6e85e77453ad.png)
  
 **Now delete the data2.txt file using the -rm command: **
 
- ![Screenshot (258)]
+ ![Screenshot (258)](https://user-images.githubusercontent.com/63599387/86223440-2f8d2a80-bba5-11ea-9761-ab8054e945ae.png)
  
 
 **View the Contents of a File in HDFS:**
 
- ![Screenshot (258)]
+ ![Screenshot (258)](https://user-images.githubusercontent.com/63599387/86223444-3025c100-bba5-11ea-8d08-5cfcb84d9b2e.png)
  
 
 **tail command to view the end of a file:**
 
-![Screenshot (258)]
+![Screenshot (258)](https://user-images.githubusercontent.com/63599387/86223444-3025c100-bba5-11ea-8d08-5cfcb84d9b2e.png)
   
 
 **Getting a File from HDFS:**
 
-![Screenshot (258)]
+![Screenshot (258)](https://user-images.githubusercontent.com/63599387/86223446-30be5780-bba5-11ea-8ed9-a94b483fe3c1.png)
 
-![Screenshot (258)]
+![Screenshot (258)](https://user-images.githubusercontent.com/63599387/86223456-33b94800-bba5-11ea-84f7-8d011bcb75e6.png)
 
-![Screenshot (258)]
+![Screenshot (258)](https://user-images.githubusercontent.com/63599387/86223461-3451de80-bba5-11ea-9c16-7b9255af15f8.png)
  
 ** The getmerge Command:**
 
- ![Screenshot (258)]
+ ![Screenshot (258)](https://user-images.githubusercontent.com/63599387/86223482-39af2900-bba5-11ea-8b99-4d09a750f5e0.png)
  
 ** Specify the Block Size and Replication Factor :**
 
 *a. Put /root/devph/labs/Lab2.1/data.txt into /user/root in HDFS, giving it a  blocksize of 1,048,576 bytes.*
 
- ![Screenshot (258)]
+ ![Screenshot (258)](https://user-images.githubusercontent.com/63599387/86223495-3b78ec80-bba5-11ea-9f25-e44396fab3a4.png)
  
 
 *b. Run the following fsck command on data.txt:*
  
-![Screenshot (258)]
+![Screenshot (258)](https://user-images.githubusercontent.com/63599387/86223497-3caa1980-bba5-11ea-9e4d-9056aa750f52.png)
 
 
 
