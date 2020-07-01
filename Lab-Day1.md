@@ -15,11 +15,12 @@
   ![Screenshot (258)](https://user-images.githubusercontent.com/63599387/86223411-256b2c00-bba5-11ea-8a1a-ae51fd671eed.png)
   
 *c. Verify that the folder was created successfully: *
+
   ![Screenshot (258)](https://user-images.githubusercontent.com/63599387/86223414-2603c280-bba5-11ea-80b2-b3898bd276ea.png)
 
 **Create a couple of subdirectories for test:**
 
-  ![Screenshot (258)](https://user-images.githubusercontent.com/63599387/86223418-27cd8600-bba5-11ea-954f-b8ac945fb18c.png)
+  ![Screenshot (258)](https://user-images.githubusercontent.com/63599387/86223416-269c5900-bba5-11ea-90f3-85216b934ce6.png)
  
 
 **To recursively view the contents of a folder, use -ls -R:**
